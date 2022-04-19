@@ -38,3 +38,4 @@ echo "before swap: a = $a, b = $b";
 swap($a, $b);
 
 echo "after swap: a = $a, b = $b";
+//Конец первого дз
